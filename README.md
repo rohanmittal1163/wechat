@@ -30,6 +30,11 @@ This project helps you to communicate with your loved ones across the worl in a 
 ```
 git clone https://github.com/rohanmittal163/wechat.git
 ```
+- Download the zip folder in xampp/htdocs in your C drive to avoid any error
+
+
+- Don't forget to import chat.sql into your phpmyadmin database (if not having install xampp)
+
 ## ❤ Contribute
 This project is open source and we are happy to receive contributions. If you would like to contribute, please follow these steps:
 
